@@ -1,0 +1,25 @@
+{
+  "name": "koa2-flash",
+  "version": "0.0.1",
+  "description": "Flash messages for your koa2 application based on connect-flash.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hjl4zh/koa2-flash.git"
+  },
+  "keywords": [
+    "koa2",
+    "middleware",
+    "flash",
+    "session"
+  ],
+  "author": "hjl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjl4zh/koa2-flash/issues"
+  },
+  "homepage": "https://github.com/hjl4zh/koa2-flash#readme"
+}
